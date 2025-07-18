@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-image: url(Assets/Hero-bg.png);
+}
+.logo{
+    color: #4E47FF;
+    font-weight: bold;
+
+}
+nav{
+     display: flex;
+     justify-content: space-between;
+     padding: 45px 150px;
+     align-items: center;
+
+}
+.banner{
+    text-align: center;
+    margin-top: 150px;
+}
+.btn{
+    color: white;
+    background-color: #4E47FF;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 8px;
+    border: 0;
+    padding: 10px 20px;
+}
