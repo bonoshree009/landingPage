@@ -8,6 +8,7 @@ header{
 .logo{
     color: #4E47FF;
     font-weight: bold;
+    font-size: 34px;
 
 }
 nav{
@@ -20,6 +21,7 @@ nav{
 .banner{
     text-align: center;
     margin-top: 150px;
+    padding-bottom: 100px;
 }
 .btn{
     color: white;
@@ -29,4 +31,18 @@ nav{
     border-radius: 8px;
     border: 0;
     padding: 10px 20px;
+}
+.action{
+    display: flex;
+    align-items: center;
+    padding: 100px 150px;
+    justify-content: space-between;
+}
+img{
+    border-radius: 10px;
+    height: 330px;
+    width: 400px;
+}
+.gray{
+    color: #a4a4a8;
 }
