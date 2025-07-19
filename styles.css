@@ -122,18 +122,17 @@ img{
 .form-items{
     line-height: 30px;
 }
-.footer{
+footer{
     text-align: center;
 }
 
-.footer ul{
+footer ul{
     display: flex;
-    text-align: center;
+    justify-content: center;
     color: #a4a4a8;
-    gap: 10px;
-}
-footer li{
-        text-decoration: none;
-        text-align: center;
+    gap: 30px;
+    text-align: center;
+    text-decoration: none;
+    list-style: none;
 
 }
